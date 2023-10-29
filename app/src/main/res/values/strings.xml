@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="calendar">Go back to the calendar</string>
+    <string name="weather">Go to see the weather</string>
+    <string name="info">Your weather info</string>
+    <string name="_0_c">0°C</string>
+    <string name="_0">0%</string>
+    <string name="read_sensors_data">Show me the data</string>
+    <string name="write_data">Start fan</string>
+
+
+</resources>
