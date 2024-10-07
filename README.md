@@ -1,4 +1,4 @@
 # SDTR-DVP
 
-Aplicatie de monitorizare meteorologica cu ESP8266, senzor de temperatura DHT22, senzor de calitate a aerului MQ-135.
-Pentru transmisia datelor se foloseste Wi-Fi. Datele vor putea fi citite intr-o aplicatie mobila.
+Weather monitoring application with ESP8266, DHT22 temperature sensor, MQ-135 air quality sensor.
+Wi-Fi is used for data transmission. The data can be read in a mobile application.
